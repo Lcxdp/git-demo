@@ -13,7 +13,15 @@ aboba
 aboooba
 booobaaa
 
+<<<<<<< HEAD
 hello world
 wall of shield
 standing strong
 on this their chosen battle field
+=======
+ another couplete next:
+
+abbbooobba
+asdasd
+adssd
+>>>>>>> feature
